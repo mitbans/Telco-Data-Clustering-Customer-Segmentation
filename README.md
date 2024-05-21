@@ -6,9 +6,6 @@
 - Customer Status: Churn Value
 - Service Usage and Financials: Type of services, tenure, charges & refunds
 
-#### There are no missing values in the selected features.
-
-
 ## Encoding Categorical Features:
 
 - Binary Encoding: for all the columns having 2 values 'Yes' and 'No', converted to 1 and 0
@@ -22,7 +19,7 @@
 ## k-means clustering 3D plot
 <img width="593" alt="image" src="https://github.com/mitbans/telco-data-clustering-customer-segmentation/assets/166747739/d1e29597-a52b-438f-9ba8-aa40706d4247">
 
-## Customer Segmentation Summary
+## Customer Segmentation Final Summary
 
 ### Cluster 0: 
 Long-tenured customers with comprehensive service subscriptions, high usage, and high charges. They are middle-aged, married, and have no dependents. They are loyal customers who have not churned. They have a two-year contract and pay via bank withdrawal.
