@@ -19,7 +19,7 @@
 ## k-means clustering 3D plot
 <img width="593" alt="image" src="https://github.com/mitbans/telco-data-clustering-customer-segmentation/assets/166747739/d1e29597-a52b-438f-9ba8-aa40706d4247">
 
-## Customer Segmentation Final Summary
+## Conclusion
 
 ### Cluster 0: 
 Long-tenured customers with comprehensive service subscriptions, high usage, and high charges. They are middle-aged, married, and have no dependents. They are loyal customers who have not churned. They have a two-year contract and pay via bank withdrawal.
@@ -28,7 +28,7 @@ Mid-tenured customers with moderate service subscriptions and usage. They have a
 ### Cluster 2: 
 Short-tenured customers with minimal service subscriptions and usage. They have lower charges and no dependents. They are younger or middle-aged and not married, and they have not churned. They have a month-to-month contract and pay via bank withdrawal.
 
-### Repository Structure
+## Repository Structure
 - <code>data/</code>: Contains dataset used in the analysis.
 - <code>notebooks/telco-data-clustering.jpynb</code>: Jupyter notebook with code for data analysis.
 - <code>README.md</code>: Summary of findings and link to notebook
